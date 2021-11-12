@@ -1,3 +1,3 @@
-module github.com/sulaga/subjects
+module github.com/be-edu/subjects-module
 
 go 1.17
