@@ -1,3 +1,3 @@
 module github.com/be-edu/subjects-module
 
-go 1.25
+go 1.26
